@@ -1,0 +1,1 @@
+{"model_type": "LSTM", "hidden_dim": 256, "dropout": 0.2}
